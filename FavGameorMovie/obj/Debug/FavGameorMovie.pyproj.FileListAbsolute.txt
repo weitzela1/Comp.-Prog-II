@@ -1,0 +1,12 @@
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\FavGameorMovie\bin\Debug\FavGameorMovie.exe.config
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\FavGameorMovie\bin\Debug\FavGameorMovie.exe
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\FavGameorMovie\bin\Debug\FavGameorMovie.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\FavGameorMovie\bin\Debug\IronPython.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\FavGameorMovie\bin\Debug\IronPython.Modules.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\FavGameorMovie\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\FavGameorMovie\bin\Debug\Microsoft.Scripting.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\FavGameorMovie\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\FavGameorMovie\obj\Debug\FavGameorMovie.pyprojResolveAssemblyReference.cache
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\FavGameorMovie\obj\Debug\FavGameorMovie.MainForm.resources
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\FavGameorMovie\obj\Debug\FavGameorMovie.pyproj.GenerateResource.Cache
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\FavGameorMovie\obj\Debug\FavGameorMovie.exe
