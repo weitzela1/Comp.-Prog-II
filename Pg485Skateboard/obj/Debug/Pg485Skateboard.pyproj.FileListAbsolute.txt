@@ -1,0 +1,12 @@
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\Pg485Skateboard\bin\Debug\Pg485Skateboard.exe.config
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\Pg485Skateboard\bin\Debug\Pg485Skateboard.exe
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\Pg485Skateboard\bin\Debug\Pg485Skateboard.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\Pg485Skateboard\bin\Debug\IronPython.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\Pg485Skateboard\bin\Debug\IronPython.Modules.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\Pg485Skateboard\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\Pg485Skateboard\bin\Debug\Microsoft.Scripting.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\Pg485Skateboard\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\Pg485Skateboard\obj\Debug\Pg485Skateboard.pyprojResolveAssemblyReference.cache
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\Pg485Skateboard\obj\Debug\Pg485Skateboard.MainForm.resources
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\Pg485Skateboard\obj\Debug\Pg485Skateboard.pyproj.GenerateResource.Cache
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\Pg485Skateboard\obj\Debug\Pg485Skateboard.exe
