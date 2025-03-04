@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "Pg486Astronomy", "Pg486Astronomy.pyproj", "{55D96B52-8049-4AAA-B87B-62FDF580B18C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55D96B52-8049-4AAA-B87B-62FDF580B18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D96B52-8049-4AAA-B87B-62FDF580B18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D96B52-8049-4AAA-B87B-62FDF580B18C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D96B52-8049-4AAA-B87B-62FDF580B18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
