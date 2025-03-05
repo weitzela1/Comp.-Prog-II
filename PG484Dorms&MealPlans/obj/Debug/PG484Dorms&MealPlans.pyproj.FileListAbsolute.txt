@@ -1,0 +1,14 @@
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG484Dorms&MealPlans\bin\Debug\PG484Dorms&MealPlans.exe.config
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG484Dorms&MealPlans\bin\Debug\PG484Dorms&MealPlans.exe
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG484Dorms&MealPlans\bin\Debug\PG484Dorms&MealPlans.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG484Dorms&MealPlans\bin\Debug\IronPython.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG484Dorms&MealPlans\bin\Debug\IronPython.Modules.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG484Dorms&MealPlans\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG484Dorms&MealPlans\bin\Debug\Microsoft.Scripting.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG484Dorms&MealPlans\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG484Dorms&MealPlans\obj\Debug\PG484Dorms&MealPlans.pyprojResolveAssemblyReference.cache
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG484Dorms&MealPlans\obj\Debug\PG484Dorms_MealPlans.Form1.resources
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG484Dorms&MealPlans\obj\Debug\PG484Dorms_MealPlans.MainForm.resources
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG484Dorms&MealPlans\obj\Debug\PG484Dorms&MealPlans.pyproj.GenerateResource.Cache
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG484Dorms&MealPlans\obj\Debug\PG484Dorms&MealPlans.exe
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG484Dorms&MealPlans\obj\Debug\PG484Dorms_MealPlans.Form2.resources
