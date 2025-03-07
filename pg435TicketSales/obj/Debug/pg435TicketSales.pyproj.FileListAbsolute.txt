@@ -1,0 +1,14 @@
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\pg435TicketSales\bin\Debug\pg435TicketSales.exe.config
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\pg435TicketSales\bin\Debug\pg435TicketSales.exe
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\pg435TicketSales\bin\Debug\pg435TicketSales.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\pg435TicketSales\bin\Debug\IronPython.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\pg435TicketSales\bin\Debug\IronPython.Modules.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\pg435TicketSales\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\pg435TicketSales\bin\Debug\Microsoft.Scripting.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\pg435TicketSales\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\pg435TicketSales\obj\Debug\pg435TicketSales.pyprojResolveAssemblyReference.cache
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\pg435TicketSales\obj\Debug\pg435TicketSales.MainForm.resources
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\pg435TicketSales\obj\Debug\pg435TicketSales.pyproj.GenerateResource.Cache
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\pg435TicketSales\obj\Debug\pg435TicketSales.exe
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\pg435TicketSales\obj\Debug\pg435TicketSales.Form2.resources
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\pg435TicketSales\obj\Debug\pg435TicketSales.Form1.resources

@@ -1,0 +1,13 @@
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG479Conference Registration\bin\Debug\PG479Conference Registration.exe.config
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG479Conference Registration\bin\Debug\PG479Conference Registration.exe
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG479Conference Registration\bin\Debug\PG479Conference Registration.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG479Conference Registration\bin\Debug\IronPython.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG479Conference Registration\bin\Debug\IronPython.Modules.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG479Conference Registration\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG479Conference Registration\bin\Debug\Microsoft.Scripting.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG479Conference Registration\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG479Conference Registration\obj\Debug\PG479Conference Registration.pyprojResolveAssemblyReference.cache
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG479Conference Registration\obj\Debug\PG479Conference_Registration.Form1.resources
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG479Conference Registration\obj\Debug\PG479Conference_Registration.MainForm.resources
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG479Conference Registration\obj\Debug\PG479Conference Registration.pyproj.GenerateResource.Cache
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\PG479Conference Registration\obj\Debug\PG479Conference Registration.exe

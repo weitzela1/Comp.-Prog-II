@@ -1,0 +1,9 @@
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 32\bin\Debug\LP 32.dll.config
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 32\bin\Debug\LP 32.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 32\bin\Debug\IronPython.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 32\bin\Debug\IronPython.Modules.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 32\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 32\bin\Debug\Microsoft.Scripting.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 32\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 32\obj\Debug\LP 32.pyprojResolveAssemblyReference.cache
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 32\obj\Debug\LP 32.dll
