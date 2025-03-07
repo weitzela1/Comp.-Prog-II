@@ -1,0 +1,10 @@
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 3-2\obj\Debug\LP 3-2.pyprojResolveAssemblyReference.cache
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 3-2\bin\Debug\LP 3-2.exe.config
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 3-2\bin\Debug\LP 3-2.exe
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 3-2\bin\Debug\LP 3-2.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 3-2\bin\Debug\IronPython.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 3-2\bin\Debug\IronPython.Modules.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 3-2\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 3-2\bin\Debug\Microsoft.Scripting.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 3-2\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\weitzel.a1\Desktop\Comp. Prog II\LP 3-2\obj\Debug\LP 3-2.exe

@@ -118,12 +118,9 @@ class MainForm(Form):
     def Button1Click(self, sender, e):
         self._label3.Text = ""
         wrd = self._textBox1.Text.lower()
+        n = len(wrd)
         for lcv in range(wrd):
-            if lcv[0] != lcv[+1]:
-                self._label3.Text == "testing"
-            else:
-                self._label3.Text == "All letters are used more than once."
-
+            if lcv[0] 
             
         
 
