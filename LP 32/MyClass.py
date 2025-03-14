@@ -1,9 +1,11 @@
 ﻿class pizza:
-    def__init__(self, n1):
-        self.n1 = n1 # diameter
-        self.total = total
+    def__init__(self, diam):
+        
+        self.diam = diam
+        self.total = 0
+        
     def calc(self):
-        self.total = (n1 * n1 *0.05) + 1.75
+        self.total = (self.diam * self.diam * 0.05) + 1.75
         
     delf get_calc(self):
         return self.total
