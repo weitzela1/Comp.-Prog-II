@@ -10,6 +10,12 @@ class Form1(Form):
         self.InitializeComponent()
     
     def InitializeComponent(self):
+        self.SuspendLayout()
+        # 
+        # Form1
+        # 
+        self.ClientSize = System.Drawing.Size(440, 455)
         self.Name = "Form1"
         self.Text = "Form1"
+        self.ResumeLayout(False)
 
