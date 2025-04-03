@@ -1,14 +1,5 @@
-from cl54c import Application
-def main():
-    try:
-        rad1 = int(input("Enter radius of Circle: "))
-        app = Application(rad1)
-        app.calc()
-        app.show() # perim, area
-
-    except Exception as e:
-            print("Error:", e)
-
-
-if __name__ == "__main__":
-    main()
+radius = int(input("Please enter the radius: "))
+area = 3.13159 * radius**2
+circ = radius * 2 * 3.14159
+print("circ: ", + circ)
+print("area: ", + area)
