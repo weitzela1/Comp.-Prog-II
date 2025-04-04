@@ -115,9 +115,12 @@ class MainForm(Form):
     def Button1Click(self, sender, e):
         from MyClass import pizza
         
-        diam = float(int(self.textBox1.Text))
-        p = calc(diam)
-        self.label3.Text = str(p)
+        diam = float(int(self._textBox1.Text))
+        p = pizza(diam)
+        p.calc()
+        total= p.get_calc()
+        
+        self._label3.Text = str(total)
         
         
 
