@@ -22,10 +22,8 @@ class FamStats:
             g5 += 1
         else:
             pass
-        total = g1 + g2 + g3 + g4 + g5
+        self.total = g1 + g2 + g3 + g4 + g5
 
-    def show(self):
-        ("<20", self.g1, (total))
 
 
 
