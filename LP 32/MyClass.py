@@ -7,7 +7,7 @@
         self.total = (self.diam * self.diam * 0.05) + 1.75
         
     def get_calc(self):
-        print(round(self.total, 2))
+        return (round(self.total, 2))
         
      
         
