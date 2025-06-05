@@ -1,0 +1,20 @@
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\bin\Debug\net6.0-windows\Periodic Table FINAL.exe
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\bin\Debug\net6.0-windows\Periodic Table FINAL.deps.json
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\bin\Debug\net6.0-windows\Periodic Table FINAL.runtimeconfig.json
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\bin\Debug\net6.0-windows\Periodic Table FINAL.dll
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\bin\Debug\net6.0-windows\ref\Periodic Table FINAL.dll
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\bin\Debug\net6.0-windows\Periodic Table FINAL.pdb
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\obj\Debug\net6.0-windows\Periodic Table FINAL.csproj.AssemblyReference.cache
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\obj\Debug\net6.0-windows\Periodic_Table_FINAL.Form1.resources
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\obj\Debug\net6.0-windows\Periodic Table FINAL.csproj.GenerateResource.cache
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\obj\Debug\net6.0-windows\Periodic Table FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\obj\Debug\net6.0-windows\Periodic Table FINAL.AssemblyInfoInputs.cache
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\obj\Debug\net6.0-windows\Periodic Table FINAL.AssemblyInfo.cs
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\obj\Debug\net6.0-windows\Periodic Table FINAL.csproj.CoreCompileInputs.cache
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\obj\Debug\net6.0-windows\Periodic Table FINAL.dll
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\obj\Debug\net6.0-windows\ref\Periodic Table FINAL.dll
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\obj\Debug\net6.0-windows\Periodic Table FINAL.pdb
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\obj\Debug\net6.0-windows\Periodic Table FINAL.genruntimeconfig.cache
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\obj\Debug\net6.0-windows\Periodic_Table_FINAL.Form2.resources
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\obj\Debug\net6.0-windows\Periodic_Table_FINAL.Form3.resources
+C:\Users\weitzel.a1\source\repos\CSharp\Periodic Table FINAL\obj\Debug\net6.0-windows\Periodic_Table_FINAL.Form4.resources
